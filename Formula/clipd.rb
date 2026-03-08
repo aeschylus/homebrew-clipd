@@ -1,6 +1,8 @@
 class Clipd < Formula
   desc "Clipboard history manager with global hotkey and floating panel UI"
   homepage "https://github.com/aeschylus/clipd"
+  url "https://github.com/aeschylus/clipd/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "5d1529786ef37e5f26ddc55b09995036c2848513cb5dd2a482c99c9da34c0c53"
   license "MIT"
   head "https://github.com/aeschylus/clipd.git", branch: "main"
 
